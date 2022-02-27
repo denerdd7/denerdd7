@@ -1,4 +1,4 @@
-### Oi, meu nome é Dener Rodrigues Freire👋
+<h1>### Oi, meu nome é Dener Rodrigues Freire 👋</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denerdd7)](https://github.com/denerdd7/denerdd7)
 
