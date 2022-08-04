@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denerdd7&langs_count=8)](https://github.com/denerdd7/denerdd7)
 
-- Técnico em Comércio formado em 2020 pelo IF Sul de Minas - Campus Três Corações
-- Programador Web formado em 2021 pelo IF Sul Rio Grandense - Campus Pelotas
-- Cursando Técnico em Informática pelo CEFET-MG
+- 2020 - Técnico em Comércio - IF Sul de Minas - Campus Três Corações
+- 2021 - Programador Web - IF Sul Rio Grandense - Campus Pelotas
+- 2022 - Técnico em Informática - CEFET-MG 
 - Graduando em Análise e Desenvolvimento de Sistemas pela Unicesumar
 - Graduando em Educação Física pela Unicesumar
 
