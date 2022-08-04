@@ -1,14 +1,18 @@
-<h1>Seja Bem-Vindo! 👋</h1>
+<h1>Welcome! 👋</h1>
+
+<h2>Dener Rodrigues Freire</h2>
+
+- 2020 - Trade Technician - IF Sul de Minas - Campus Três Corações
+- 2021 - Web Developer - IF Sul Rio Grandense - Campus Pelotas
+- 2021 - Graduating in Systems Analysis and Development at Unicesumar
+- 2022 - Computer Technician - CEFET-MG
+- 2022 - Graduating in Physical Education at Unicesumar
+
+<h3>Today better than yesterday, tomorrow better than today!</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denerdd7)](https://github.com/denerdd7/denerdd7)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denerdd7&langs_count=8)](https://github.com/denerdd7/denerdd7)
-
-- 2020 - Técnico em Comércio - IF Sul de Minas - Campus Três Corações
-- 2021 - Programador Web - IF Sul Rio Grandense - Campus Pelotas
-- 2022 - Técnico em Informática - CEFET-MG 
-- Graduando em Análise e Desenvolvimento de Sistemas pela Unicesumar
-- Graduando em Educação Física pela Unicesumar
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dener-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
