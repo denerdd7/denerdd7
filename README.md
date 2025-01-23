@@ -4,9 +4,8 @@
 
 - 2020 - Trade Technician - IF Sul de Minas - Campus Três Corações
 - 2021 - Web Developer - IF Sul Rio Grandense - Campus Pelotas
-- 2021 - Graduating in Systems Analysis and Development at Unicesumar
+- 2021 - Graduated in Systems Analysis and Development at Unicesumar
 - 2022 - Computer Technician - CEFET-MG
-- 2022 - Graduating in Physical Education at Unicesumar
 
 <h3>Today better than yesterday, tomorrow better than today!</h3>
 
